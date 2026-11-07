@@ -106,11 +106,10 @@ MediaPipe assigns 21 landmark IDs to each hand. The fingertip IDs used are: **4,
 
 ## Team Members
 
-| Name | 
-
-|Muhammad Uzair Hussain|
-
-|Muqarrab Mustafa |
+| Name                   |
+|------------------------|
+| Muhammad Uzair Hussain |
+| Muqarrab Mustafa       |
 
 **Course:** Digital Logic Design Lab
 
